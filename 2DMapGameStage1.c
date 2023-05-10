@@ -17,6 +17,10 @@
 #define BOULDER_TYPE 'B'
 
 // Your constants here
+#define MOVE_UP 'u'
+#define MOVE_DOWN 'd'
+#define MOVE_LEFT 'l'
+#define MOVE_RIGHT 'r'
 
 // Provided struct
 typedef struct location {
